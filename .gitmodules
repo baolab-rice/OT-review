@@ -1,0 +1,9 @@
+[submodule "OT-algorithm/Elevation/Elevation"]
+	path = OT-algorithm/Elevation/Elevation
+	url = https://github.com/microsoft/Elevation
+[submodule "OT-algorithm/PredictCRISPR/OfftargetPredict"]
+	path = OT-algorithm/PredictCRISPR/OfftargetPredict
+	url = https://github.com/penn-hui/OfftargetPredict
+[submodule "OT-algorithm/CNN_std/off_target_prediction"]
+	path = OT-algorithm/CNN_std/off_target_prediction
+	url = https://github.com/MichaelLinn/off_target_prediction
