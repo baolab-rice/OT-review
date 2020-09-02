@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb39335a-9848-4101-9778-dbbbc6284030" name="Default Changelist" comment="" />
+    <list id="acabdc7f-e818-4a55-97b1-57c55519a471" name="Revert: Update descriptions" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +27,8 @@
         <entry file="file://$PROJECT_DIR$/OT-algorithm/CRISTA/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" selection-start-line="16" selection-end-line="17" />
+              <first_editor relative-caret-position="300">
+                <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -46,12 +47,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OT-algorithm/PredictCRISPR/README_PredictCRISPR.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="60">
                 <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OT-algorithm/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="266">
+                <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OT-algorithm/CFDScoring/README_CFD.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -120,24 +157,6 @@
               <item name="OT-review" type="462c0819:PsiDirectoryNode" />
               <item name="OT-algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="OT-review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OT-review" type="462c0819:PsiDirectoryNode" />
-              <item name="OT-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="CRISTA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OT-review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OT-review" type="462c0819:PsiDirectoryNode" />
-              <item name="OT-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Elevation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OT-review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OT-review" type="462c0819:PsiDirectoryNode" />
-              <item name="OT-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="PredictCRISPR" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -177,16 +196,17 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="eb39335a-9848-4101-9778-dbbbc6284030" name="Default Changelist" comment="" />
+      <changelist id="acabdc7f-e818-4a55-97b1-57c55519a471" name="Revert: Update descriptions" comment="" />
       <created>1599072013647</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599072013647</updated>
-      <workItem from="1599072015060" duration="5868000" />
+      <workItem from="1599072015060" duration="6156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5868000" />
+    <option name="totallyTimeSpent" value="6156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="23" width="1390" height="877" extended-state="0" />
@@ -197,12 +217,12 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Python Console" weight="0.3299363" />
       <window_info anchor="bottom" id="Terminal" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -220,47 +240,33 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OT-algorithm/CFDScoring/README_CFD.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="203">
-            <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OT-algorithm/CNN_std/README_CNN_std.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="10" lean-forward="true" selection-end-line="6" selection-end-column="51" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OT-algorithm/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OT-algorithm/Elevation/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -279,11 +285,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/OT-algorithm/PredictCRISPR/README_PredictCRISPR.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OT-algorithm/CFDScoring/README_CFD.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OT-algorithm/CNN_std/README_CNN_std.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="10" lean-forward="true" selection-end-line="6" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/OT-algorithm/CRISTA/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" selection-start-line="16" selection-end-line="17" />
+          <first_editor relative-caret-position="300">
+            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           </first_editor>
           <second_editor />
         </state>
@@ -299,11 +335,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OT-algorithm/PredictCRISPR/README_PredictCRISPR.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <first_editor relative-caret-position="105">
+            <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OT-algorithm/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="266">
+            <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
           </first_editor>
           <second_editor />
         </state>
