@@ -14,8 +14,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="41" column="139" selection-start-line="41" selection-start-column="139" selection-end-line="41" selection-end-column="139" />
+              <first_editor relative-caret-position="203">
+                <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
               </first_editor>
               <second_editor />
             </state>
@@ -23,10 +23,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OT-algorithm/CombineOTscore.py">
+        <entry file="file://$PROJECT_DIR$/OT-algorithm/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="885">
+                <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OT-algorithm/Function_based_algorithms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2490">
-              <caret line="455" column="12" selection-start-line="455" selection-start-column="12" selection-end-line="455" selection-end-column="12" />
+            <state relative-caret-position="974">
+              <caret line="461" lean-forward="true" selection-start-line="461" selection-end-line="461" />
               <folding>
                 <element signature="e#23#38#0" expanded="true" />
                 <element signature="e#523#573#0" />
@@ -36,6 +48,7 @@
                 <element signature="e#3579#3758#0" />
                 <element signature="e#3844#6175#0" />
                 <element signature="e#6439#8158#0" />
+                <element signature="e#8224#8308#0" />
                 <element signature="e#8323#8598#0" />
                 <element signature="e#8655#8821#0" />
                 <element signature="e#8893#9157#0" />
@@ -55,6 +68,7 @@
     <findStrings>
       <find>MMpattern</find>
       <find>match_pattern</find>
+      <find>match_indel</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -63,14 +77,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/OT-algorithm/CombineOTscore.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/OT-algorithm/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="528" />
-    <option name="y" value="120" />
+    <option name="x" value="97" />
+    <option name="y" value="23" />
     <option name="width" value="1390" />
     <option name="height" value="877" />
   </component>
@@ -104,6 +119,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OT-algorithm" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -126,15 +146,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599072013647</updated>
-      <workItem from="1599072015060" duration="2383000" />
+      <workItem from="1599072015060" duration="3942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2383000" />
+    <option name="totallyTimeSpent" value="3942000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="528" y="120" width="1390" height="877" extended-state="0" />
+    <frame x="97" y="23" width="1390" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -143,8 +163,8 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Python Console" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -169,17 +189,17 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="41" column="139" selection-start-line="41" selection-start-column="139" selection-end-line="41" selection-end-column="139" />
+          <first_editor relative-caret-position="203">
+            <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OT-algorithm/CombineOTscore.py">
+    <entry file="file://$PROJECT_DIR$/OT-algorithm/Function_based_algorithms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2490">
-          <caret line="455" column="12" selection-start-line="455" selection-start-column="12" selection-end-line="455" selection-end-column="12" />
+        <state relative-caret-position="974">
+          <caret line="461" lean-forward="true" selection-start-line="461" selection-end-line="461" />
           <folding>
             <element signature="e#23#38#0" expanded="true" />
             <element signature="e#523#573#0" />
@@ -189,6 +209,7 @@
             <element signature="e#3579#3758#0" />
             <element signature="e#3844#6175#0" />
             <element signature="e#6439#8158#0" />
+            <element signature="e#8224#8308#0" />
             <element signature="e#8323#8598#0" />
             <element signature="e#8655#8821#0" />
             <element signature="e#8893#9157#0" />
@@ -198,6 +219,16 @@
             <element signature="e#10599#11444#0" />
             <element signature="e#11779#11948#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OT-algorithm/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="885">
+            <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

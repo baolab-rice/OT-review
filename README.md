@@ -21,7 +21,7 @@ Cho, Seung Woo, et al. "Analysis of off-target effects of CRISPR/Cas-derived RNA
 Pavel-Dinu, Mara, et al. "Gene correction for SCID-X1 in long-term hematopoietic stem cells." Nature communications 10.1 (2019): 1-15.
 
 + 2019_Park  
-Park, So Hyun, et al. "Highly efficient editing of the ??-globin gene in patient-derived hematopoietic stem and progenitor cells to treat sickle cell disease." Nucleic Acids Research 47.15 (2019): 7955-7972. 
+Park, So Hyun, et al. "Highly efficient editing of the beta-globin gene in patient-derived hematopoietic stem and progenitor cells to treat sickle cell disease." Nucleic Acids Research 47.15 (2019): 7955-7972. 
 
 + 2015_Kim  
 Kim, Daesik, et al. "Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target effects in human cells." Nature methods 12.3 (2015): 237.
@@ -52,15 +52,15 @@ https://github.com/maximilianh/crisporPaper
 Doench, John G., et al. "Optimized sgRNA design to maximize activity and minimize off-target effects of CRISPR-Cas9." Nature biotechnology 34.2 (2016): 184.  
 Code available in supplementary: https://www.nature.com/articles/nbt.3437#MOESM9 
 
-+ elevation algorithm was installed based on authors??? instructions:  
++ elevation algorithm was installed based on authors instructions:  
 Listgarten, Jennifer, et al. "Prediction of off-target activities for the end-to-end design of CRISPR guide RNAs." Nature biomedical engineering 2.1 (2018): 38-47.  
 https://github.com/microsoft/Elevation 
 
-+ predictCRISPR algorithm was installed based on authors??? instructions:  
++ predictCRISPR algorithm was installed based on authors instructions:  
 Peng, Hui, et al. "Recognition of CRISPR/Cas9 off-target sites through ensemble learning of uneven mismatch distributions." Bioinformatics 34.17 (2018): i757-i765.  
 https://github.com/penn-hui/OfftargetPredict 
 
-+ CNN_std algorithm was installed based on authors??? instructions:  
++ CNN_std algorithm was installed based on authors instructions:  
 Lin, Jiecong, and Ka-Chun Wong. "Off-target predictions in CRISPR-Cas9 gene editing using deep learning." Bioinformatics 34.17 (2018): i656-i663.  
 https://github.com/MichaelLinn/off_target_prediction
 
