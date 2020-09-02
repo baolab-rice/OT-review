@@ -87,3 +87,9 @@ Dependencies can be installed using conda:
   conda install numpy scikit-learn pandas scipy  
   conda install -c conda-forge matplotlib
 
+
+---------------------------------------
+
+Please contact Yidan Pan (yidan.pan@rice.edu) if you have any questions.
+
+
