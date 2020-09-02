@@ -39,7 +39,7 @@ For each gRNA, off-target sites were screened by Cas-Offinder(http://www.rgenome
 
 ## Off-target scores calculation:  
 **Folder: OT-algorithm**  
-The processing scripts adapted from previous publications (as described in Table 3): 
+The processing scripts adapted from previous publications (as described in Table 3). Please see details of each algorithm inside the folder: 
 
 + CCTOP off-target scores were computed based on the formula in the original paper:  
 Stemmer, Manuel, et al. "CCTop: an intuitive, flexible and reliable CRISPR/Cas9 target prediction tool." PloS one 10.4 (2015).

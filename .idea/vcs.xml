@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OT-algorithm/CNN_std/off_target_prediction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OT-algorithm/Elevation/Elevation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OT-algorithm/PredictCRISPR/OfftargetPredict" vcs="Git" />
+  </component>
+</project>
